@@ -12,6 +12,7 @@ The goal of this project is to create a list of show dates that can be displayed
 
 Project Status / TODO
 ---------------------
+[![Build Status](https://travis-ci.org/ericgwright/NSS-schedule-keeper.png)](https://travis-ci.org/ericwright/NSS-schedule-keeper)
 
   1. The program is able to have band and date data entered into a database
   2. The program is able to list the contents of the database
